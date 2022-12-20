@@ -9,4 +9,8 @@
 
 # Deskripsi Umum
 
-Tema
+Tema utama dari source code yang satu ini adalah untuk membuat array dalam impldementasi deret aritmatika.
+Tujuan utama dari source code ini adalah untuk mencari bilangan yang tidak habis dibagi angka 3, 5, dan.
+<br> Algoritma dari source code ini yaitu :
+
+<br> 1.
