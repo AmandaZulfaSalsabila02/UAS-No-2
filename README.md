@@ -63,3 +63,9 @@ int main (){
 
 	}
 }
+
+
+
+# Output
+
+![20221220_211003](https://user-images.githubusercontent.com/121077238/208686736-2dea0c65-8d3a-462e-9a5a-fe1dd23779f7.jpg)
